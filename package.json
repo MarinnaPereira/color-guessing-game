@@ -1,7 +1,4 @@
 {
-  "scripts": {
-    "test": "jest --runInBand --detectOpenHandles --forceExit"
-  },
   "devDependencies": {
     "jest": "^27.5.1",
     "jest-puppeteer": "^6.1.0"

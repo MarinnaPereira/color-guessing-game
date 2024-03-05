@@ -18,7 +18,7 @@ This repository contains a simple color guessing game implemented using HTML, CS
 1. Clone the Repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/yourusername/color-guessing-game.git
 ```
 
 2. Install Dependencies
@@ -56,8 +56,6 @@ Open your web browser and navigate to the live server URL where the game is host
 - **HTML**: Markup language used for structuring the game interface.
 - **CSS**: Stylesheet language used for styling the game elements and creating an attractive visual design.
 - **JavaScript**: Programming language used for implementing game logic, interactivity, and dynamic behavior.
-- **Node.js**: JavaScript runtime environment used for running JavaScript code outside of a web browser.
-- **npm** (Node Package Manager): Package manager for Node.js that facilitates dependency management and project building.
 
 ## Contributing
 
